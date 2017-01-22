@@ -1,0 +1,4 @@
+./awakend
+.dub
+*.o
+*.obj
